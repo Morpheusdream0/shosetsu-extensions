@@ -454,14 +454,11 @@
       "md5": ""
     },
     {
-      "name": "Story Seedling",
-      "fileName": "StorySeedling",
-      "imageURL": "https://github.com/shosetsuorg/extensions/raw/dev/icons/TravisTranslations.png",
-      "id": 4302,
-      "lang": "en",
-      "ver": "2.0.8",
+      "name": "Literotica",
+      "fileName": "Literotica",
+      "imageURL": "",
+      "id": 1308639970,
+      "lang": "all",
+      "ver": "1.0.3",
       "libVer": "1.0.0",
       "md5": ""
-    }
-  ]
-}
